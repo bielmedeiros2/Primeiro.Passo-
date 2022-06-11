@@ -1,4 +1,4 @@
- HTML
+ 
 - HyperText Markup Language
 
 - Hiper Texto?
@@ -6,11 +6,9 @@
   - tags
   - atributos
 - Linguagem
-  - maneira de escrever
-
-
-
-- Apresentação visual para o cliente
+  -
+  -  maneira de escreve
+- Apresentação visual para o client
 - Estilos para o HTML
 - Cascading Style Sheets
   - Folha de Estilo em Cascata

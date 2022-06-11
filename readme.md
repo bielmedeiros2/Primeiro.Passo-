@@ -2,12 +2,7 @@
 - HyperText Markup Language
 
 - Hiper Texto?
-- Marcação
-  - tags
-  - atributos
-- Linguagem
-  -
-  -  maneira de escreve
+- 
 - Apresentação visual para o client
 - Estilos para o HTML
 - Cascading Style Sheets

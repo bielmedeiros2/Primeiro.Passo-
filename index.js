@@ -22,7 +22,7 @@ const respostas = [
   "Seu Gosto e Mais Esquisito que o Normal.",
 ]
 
-// clicar em fazer pergunta
+
 function fazerPergunta() {
 
   if(inputPergunta.value == "") {
@@ -42,7 +42,7 @@ function fazerPergunta() {
 
   elementoResposta.style.opacity = 1;
 
-  // sumir a resposta depois de 3 segundos
+  
   setTimeout(function() {
     elementoResposta.style.opacity = 0;
     buttonPerguntar.removeAttribute("disabled")

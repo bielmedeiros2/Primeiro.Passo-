@@ -2,24 +2,24 @@ const elementoResposta = document.querySelector("#resposta")
 const inputPergunta = document.querySelector("#inputPergunta")
 const buttonPerguntar = document.querySelector('#buttonPerguntar')
 const respostas = [
-  "Vikings.",
+  "Vikings",
   "Game of Thrones",
-  "The Boys.",
-  "Stanger Things.",
+  "The Boys",
+  "Stanger Things",
   "PEAKY BLINDERS",
-  "The Witcher.",
-  "La casa De Papel.",
+  "The Witcher",
+  "La casa De Papel",
   "Voce tem Um Gosto meio...",
-  "Irmandade.",
-  "Quem Matou Sara?.",
-  "Squid Game.",
+  "Irmandade",
+  "Quem Matou Sara?",
+  "Round 6.",
   "Vis a Vis.",
-  "Moon Knight.",
-  "Sintonia.",
-  "Loki.",
-  "The Last Kingdom.",
-  "Vikings: Valhalla.",
-  "Seu Gosto e Mais Esquisito que o Normal.",
+  "Moon Knight",
+  "Sintonia",
+  "Loki",
+  "The Last Kingdom",
+  "Vikings: Valhalla",
+  "Seu Gosto e Mais Esquisito que o Normal",
 ]
 
 
